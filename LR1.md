@@ -227,4 +227,3 @@ const keypair = Keypair.fromSecretKey(Uint8Array.from(secret));
 - ✅ Готовы и протестированы TS-скрипты (локал/devnet).
 - ✅ Освоены теоретические данные (PoH, PoS/BFT, аккаунты/tx).
 
-**Дата выполнения**: 22 сентября 2025 г.
